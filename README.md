@@ -30,7 +30,7 @@ The README that explains the analysis files is clear and understandable.
 The work submitted for this project is the work of the student who submitted it.
 
 ### Project Outcome
-In sync with the requirements this project comprises:
+This Repository contains:
 
 1. a tidy data set 
 2. an R script called [run_analysis.R]
