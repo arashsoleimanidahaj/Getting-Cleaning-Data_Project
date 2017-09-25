@@ -33,5 +33,8 @@ The work submitted for this project is the work of the student who submitted it.
 This Repository contains:
 
 1. a tidy data set 
+The Tidy data can be found here
+(https://github.com/arashsoleimanidahaj/Getting-Cleaning-Data_Project/blob/master/tidy_data.txt)
+
 2. an R script called [run_analysis.R]
 3. a code book on variables, data and any transformations or work performed to clean up the data 
